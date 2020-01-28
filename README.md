@@ -6,4 +6,6 @@ This script shows off the basics of:
 - non-exported variable assignments
 - array lists
 - iteration with a For loop 
-within a bash shell. The premise is to iterate through a pre-defined array list of webservers and display the name of each server as it is processed.
+within a bash shell. 
+
+The premise is to iterate through a pre-defined array list of webservers and display the name of each server as it is processed.
