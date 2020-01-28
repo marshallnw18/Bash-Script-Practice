@@ -1,5 +1,5 @@
 # Bash Script Practice
-The bash scripts in this repository are practice scripts I've completed throughout the process of teaching myself Linux (centOS7/Ubuntu) sever administation!
+The bash scripts in this repository are small practice scripts I've completed throughout the process of teaching myself Linux (centOS7/Ubuntu) sever administation!
 
 ## Web Server List Iteration
 This script shows off the basics of:
