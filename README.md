@@ -39,3 +39,14 @@ This script shows off the basics of:
 - while loops
 
 The premise is to display a menu to the user which can only be exited by using the Q option. Attempting to use a SIGINT or SIGTERM to exit will result in the user being prompted to "Please use Q to Exit" while the script continues to run.
+
+## Functions With Parameters (paramfunction.sh)
+This script shows off the basics of:
+- function definition within bash
+- globally and locally scoped variables
+- reading in parameters to a bash function
+- command substitution 
+- reading in variables at runtime 
+
+The premise is that that the user will initialize the shell script by passing in a username variable. Ex: `paramfunction.sh MyUserName`.
+The user will then be prompted to enter their age and the function will respond by addressing them and telling them approximately how old they are in days (leap years not accounted for).
